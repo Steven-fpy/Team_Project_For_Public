@@ -9,3 +9,6 @@
     - https://www.qcontinuum.org/lidar-scanner
         - 라이다 스캐너 (회전식X)
         
+# 230124
+- code cheak
+- 복습
